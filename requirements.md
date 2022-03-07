@@ -1,14 +1,14 @@
-#E-Commerce Website
+# E-Commerce Website
 
-##Customers:
-###Homepage:
-####navbar :
+## Customers:
+### Homepage:
+#### navbar :
 -search
 -logo
 -cart
 -side bar categories
 -profile icon
-####body :
+#### body :
 -top selling products
 -Filter products 
 -footer( info. about us)
