@@ -32,7 +32,7 @@
     -Cart status 
     -selected products
     -buy => button
-### Orders :
+### Orders page :
     -Orders submited
     -Reorder button
   
