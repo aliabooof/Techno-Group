@@ -15,5 +15,35 @@
 ### Log-In page :
     E-Mail   => textfield
     Password => textfield
-    Log-In => button
+    Log-In   => button
+### Register page :
+    -name
+    -E-Mail
+    -password
+    -confirm password
+    -phone no.
+    -date of birth 
+    -Adress
+### Profile page :
+    -account info.
+    -orders
+    -credits info.
+### Cart page:
+    -Cart status 
+    -selected products
+    -buy => button
+### Orders :
+    -Orders submited
+    -Reorder button
+  
+## Admins :
+    -Add/delete products
+    -Edit products price
+    -Add offers
+    -Check availality 
+    
+    
+
+    
+    
     
